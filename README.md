@@ -2,7 +2,7 @@
 
 ## Integrantes
 * *Andrés Santiago Ulloa Martínez* - **20192020047**
-* *Integrante 2* - **Codigo 2**
+* *Juan Esteban Torres Acosta* - **20192020052**
 * *Integrante 3* - **Codigo 3**
 
 ## Descripción Programa
