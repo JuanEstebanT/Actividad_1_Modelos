@@ -24,3 +24,4 @@ El objetivo final del programa es que debe, a forma de inventario, mostrar la in
 
 ## Diagrama de Clases
 
+<img src="Diagrama.jpeg">
