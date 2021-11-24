@@ -3,7 +3,7 @@
 ## Integrantes
 * *Andrés Santiago Ulloa Martínez* - **20192020047**
 * *Juan Esteban Torres Acosta* - **20192020052**
-* *Integrante 3* - **Codigo 3**
+* *Nicolas David Gutierrez * - **20172020003**
 
 ## Descripción Programa
 
